@@ -8,7 +8,7 @@ class Fighter {
 		$this->type = $string;
 	}
 
-	private function fight($target) {
+	protected function fight($target) {
 	}
 }
 
